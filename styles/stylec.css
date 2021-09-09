@@ -488,29 +488,32 @@ footer a:hover{
 }
 
 .about-image {
-    width: 24%;
-    margin-right: 200px;
-    vertical-align: top;
+   
     margin-top: 140px;
-    border-radius: 1%;
-    float: right;
-    margin-right: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
         
 }
 
 
 .about-text {
-    width: 56%;
-    float: left;
+    margin-left: 200px;
+    margin-right: 200px;
     color: gray;
     vertical-align: middle;
 
 }
 
+#left {
+    text-align: left;
+}
+
 .hello2 {
-    margin-left: 200px;
-    margin-right: 120px;
-    margin-top: 150px;
+
+    margin-top: 50px;
+    text-align: center;
    /* height: 50vh;*/
 }
 
